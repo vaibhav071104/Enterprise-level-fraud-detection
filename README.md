@@ -233,7 +233,7 @@ We welcome contributions to improve the system:
 
 ### **Repository Links**
 - **💻 Source Code:** [GitLab Repository](https://gitlab.com/vaibhavnsingh07-group/credit-card-fraud-detection)
-- **🤖 ML Models:** [Hugging Face Repository](https://huggingface.co/vaibhavnsingh07/fraud-detection-models)
+- **🤖 ML Models:** [Hugging Face Repository](https://huggingface.co/vaibhav07112004/fraud-detection-models)
 
 ### **Getting Help**
 - 🐛 **Report Bugs:** GitLab Issues
