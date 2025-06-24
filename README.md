@@ -269,9 +269,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 | **What You Need** | **Where to Go** | **What You'll Find** |
 |---|---|---|
 | **📋 Setup Instructions** | [GitLab README](https://gitlab.com/vaibhavnsingh07-group/credit-card-fraud-detection) | Complete deployment guide |
-| **🤖 Download Models** | [Hugging Face Models](https://huggingface.co/vaibhavnsingh07/fraud-detection-models) | All 11 PKL files |
+| **🤖 Download Models** | [Hugging Face Models](https://huggingface.co/vaibhav07112004/fraud-detection-models) | All 11 PKL files |
 | **🔧 Source Code** | [GitLab Repository](https://gitlab.com/vaibhavnsingh07-group/credit-card-fraud-detection) | Flink jobs, FastAPI, configs |
-| **📊 Model Details** | [Hugging Face Docs](https://huggingface.co/vaibhavnsingh07/fraud-detection-models) | Accuracy metrics, usage |
+| **📊 Model Details** | [Hugging Face Docs](https://huggingface.co/vaibhav07112004/fraud-detection-models) | Accuracy metrics, usage |
 | **🚨 Issues/Support** | [GitLab Issues](https://gitlab.com/vaibhavnsingh07-group/credit-card-fraud-detection/-/issues) | Bug reports, feature requests |
 
 ---
