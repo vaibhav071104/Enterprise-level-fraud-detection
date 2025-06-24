@@ -27,7 +27,7 @@ Welcome to the **Enterprise Fraud Detection System**! This is a comprehensive re
 
 ### 🤖 **Machine Learning Models (11 PKL Files)**
 **📍 Location:** Hugging Face Repository
-**🔗 Link:** [https://huggingface.co/vaibhavnsingh07/fraud-detection-models](https://huggingface.co/vaibhavnsingh07/fraud-detection-models)
+**🔗 Link:** [https://huggingface.co/vaibhavnsingh07/fraud-detection-models](https://huggingface.co/vaibhav07112004/fraud-detection-models)
 
 **What's included:**
 - ✅ 11 specialized fraud detection models (.pkl files)
